@@ -1,0 +1,4 @@
+E:\QtSvgEditor\svgeditor\debug\svgeditor.exe
+C:\Users\86150\Desktop\QtSvgEditor\svgeditor\debug\svgeditor.exe
+C:\Users\86150\Desktop\Code\svgeditor\debug\svgeditor.exe
+E:\wps_test02\Code\svgeditor\debug\svgeditor.exe
